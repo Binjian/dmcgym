@@ -25,7 +25,7 @@ setup(
     description=description,
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/ikostrikov/dmcgym',
+    url='https://github.com/binjian/dmcgym',
     author='Ilya Kostrikov',
     classifiers=[
         'Development Status :: 3 - Alpha',
